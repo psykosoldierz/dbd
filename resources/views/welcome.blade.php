@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                ONEMI DBD, algo para probar git
+                ONEMI DBD, algo para probar git, probar denuevo el git
                 </div>
 
                 <div class="links">
